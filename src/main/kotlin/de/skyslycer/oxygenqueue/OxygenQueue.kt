@@ -23,7 +23,7 @@ import kotlin.io.path.notExists
 @Plugin(
     id = "oxygenqueue",
     name = "OxygenQueue",
-    version = "1.0.0",
+    version = "1.0.1",
     url = "https://oxygenmc.net",
     description = "The queue system for OxygenMC",
     authors = ["Skyslycer"]
