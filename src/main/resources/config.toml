@@ -1,0 +1,9 @@
+[normal]
+maxPlayers = 100
+queueMessage = "<#6ddff0><bold>OxygenMC\n<gray>The server is full.\n<#78b4bc>You were put in the normal queue.\n<gray>Rejoin in the next <#78b4bc>120 seconds<gray> to keep your position.\n<gray>Your position: <#78b4bc>7<gray>/<#78b4bc>28\n\n<gray>Get <#78b4bc>priority queue <gray>at <#78b4bc>shop.oxygenmc.net<gray>."
+timeout = 120
+
+[priority]
+maxPlayers = 150
+queueMessage = "<#6ddff0><bold>OxygenMC\n<gray>The server is full.\n<#78b4bc>You were put in the priority queue.\n<gray>Rejoin in the next <#78b4bc>240 seconds<gray> to keep your position.\n<gray>Your position: <#78b4bc>%position%<gray>/<#78b4bc>%size%"
+timeout = 240
